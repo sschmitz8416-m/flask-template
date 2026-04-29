@@ -20,3 +20,8 @@ Personal development log — notes, findings, and ongoing work.
 - Tested build on clean environment
 - Wrote notes on upcoming feature design
 - Improved log message formatting
+
+## 2026-04-29
+- Ran linter, applied auto-fixes
+- Improved error handling in edge cases
+- Added basic usage examples to README
