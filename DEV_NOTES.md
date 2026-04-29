@@ -15,3 +15,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added CONTRIBUTING.md stub
 - Wrote notes on upcoming feature design
 - Added type hints to helper functions
+
+## 2026-04-29
+- Tested build on clean environment
+- Wrote notes on upcoming feature design
+- Improved log message formatting
